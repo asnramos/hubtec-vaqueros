@@ -19,7 +19,7 @@
       - Presentacion de Proyectos PITCH, TRAILERS.
       - Compartir experiencias de desarrollo de proyectos.
 
-**A Desarrollar en el HUB Tecnológico VAQUEROS **
+A Desarrollar en el HUB Tecnológico VAQUEROS
 
 En ésta actividad planteamos estos fundamentos en la formacion de jovenes hoy en dia:
 
@@ -38,4 +38,5 @@ Llevamos adelante esta iniciativa por medio de las Autoridades de la **Municipal
 La organización de esta actividad se dio por la gestion y apoyo del Sr DANIEL MORENO OVALLE desde Septiembre 2023.
 
 El apoyo logistico es por medio de la gente de:
-Python Norte https://t.me/pythonnorte y SALTAGAMEJAM.AR https://saltagamejam.ar/
+* Python Norte https://t.me/pythonnorte y
+* SALTAGAMEJAM.AR https://saltagamejam.ar/
