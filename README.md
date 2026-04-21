@@ -13,7 +13,7 @@
   * ENGINES: CONSTRUC 3, GODOT Engine
   * ROBOTICA
   * RECURSOS WEBs (VPS, ENGINES WEB)
-  * COMPETENCIAS INTERNACIONALES:
+  * COMPETENCIAS INTERNACIONALES en VIDEOJUEGOS:
       - Dinamica.
       - Formación en Trabajo Colaborativo. Aprendizaje continuo. Optimizacion continua.
       - Formulacion de Proyectos. Evaluaciones. Errores.
