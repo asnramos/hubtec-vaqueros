@@ -1,6 +1,6 @@
 ### hubtec-vaqueros
 # "HUB Tecnologico VAQUEROS", SALTA, Argentina.
-# **Proyecto:** (lo llevamos adelante en base a toda la experiencia de los últimos años)
+## **Proyecto:** (lo llevamos adelante en base a toda la experiencia de los últimos años)
 
 # Jóvenes Talentos en Tecnología:
 # Ciencias de Datos y Desarrollo de Videojuegos"
