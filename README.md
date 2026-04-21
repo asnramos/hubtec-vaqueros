@@ -13,10 +13,10 @@
   * ROBOTICA
   * RECURSOS WEBs (VPS, ENGINES WEB)
   * COMPETENCIAS INTERNACIONALES:
-      Dinamica.
-      Formación en Trabajo Colaborativo. Aprendizaje continuo. Optimizacion continua.
-      Formulacion de Proyectos. Evaluaciones. Errores.
-      Presentacion de Proyectos PITCH, TRAILERS.
-      Compartir experiencias de desarrollo de proyectos.
+      - Dinamica.
+      - Formación en Trabajo Colaborativo. Aprendizaje continuo. Optimizacion continua.
+      - Formulacion de Proyectos. Evaluaciones. Errores.
+      - Presentacion de Proyectos PITCH, TRAILERS.
+      - Compartir experiencias de desarrollo de proyectos.
 
 **A Desarrollar en el HUB Tecnológico VAQUEROS **
