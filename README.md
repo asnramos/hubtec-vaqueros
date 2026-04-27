@@ -9,7 +9,7 @@
   * LOGICA y PROGRAMACION (Base de conocimientos)
   * LENGUAJES: Python, GDScript, JavaScript, C#, C/C++, DHTML, MarkDown.
   *  - Usaremos la siguiente infraestrcutura para programar remotamente (Nube):
-     - (https://jupyter.org/try-jupyter/)[https://jupyter.org/try-jupyter/]
+     - [https://jupyter.org/try-jupyter](https://jupyter.org/try-jupyter)
   * REPOSITORIOS: GitHUB, Git LAB, BitBUCKED, ITCH.IO
   * ENGINES: CONSTRUC 3, GODOT Engine
   * ROBOTICA
