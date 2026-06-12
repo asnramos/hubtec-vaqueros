@@ -5,6 +5,7 @@
 # Jóvenes Talentos en Tecnología:
 # Ciencias de Datos y Desarrollo de Videojuegos"
 ## Temas principales:
+  * [Guia para Jammers, obligatoria. Autor Profesor Durgan Nallar](https://saltagamejam.ar/leer/SaltaGameJam_Guia_Jammers.pdf) 
   * INGLES TECNICO
   * LOGICA y PROGRAMACION (Base de conocimientos)
   * LENGUAJES: Python, GDScript, JavaScript, C#, C/C++, DHTML, MarkDown.
