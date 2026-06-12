@@ -33,6 +33,8 @@ En ésta actividad planteamos estos fundamentos en la formacion de jovenes hoy e
 * **SUPERAR el miedo al FRACASO, siempre LO INTENTAMOS NUEVAMENTE [Try Again]**
 
 * **Saber ALCANZAR un HORIZONTE SUPERADOR**
+  
+* **Tener capacidad de REACCION**
 
 Llevamos adelante esta iniciativa por medio de las Autoridades de la **Municipalidad de VAQUEROS**, su **Intendenta Sra ANDREA SALVATIERRA**, siempre presente la colaboración del **personal del municipio y del HUB Tecnológico VAQUEROS.**
 
