@@ -41,7 +41,7 @@ Llevamos adelante esta iniciativa por medio de las Autoridades de la Municipalid
 
 La organización de esta actividad se dio por la gestion y apoyo del Sr DANIEL MORENO OVALLE desde Septiembre 2023, la señora Ministra de Educación Dra. María Cristina del Valle Fiore Viñuales, el Diputado Nacional CPN Pablo Ismael Outes, la Diputada Nacional Sra...
 
-El aporte de contenidos: Profesor Durgan Nallar.
+El aporte de contenidos: Profesor Durgan Nallar: [Guia para Jammers, lectura obligatoria. Autor Profesor Durgan Nallar](https://saltagamejam.ar/leer/SaltaGameJam_Guia_Jammers.pdf) 
 
 El apoyo logistico es por medio de la gente de:
 * Python Norte https://t.me/pythonnorte y
