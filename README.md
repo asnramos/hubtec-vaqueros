@@ -39,7 +39,7 @@ En ésta actividad planteamos estos fundamentos en la formacion de jovenes hoy e
 
 Llevamos adelante esta iniciativa por medio de las Autoridades de la Municipalidad de VAQUEROS, su Intendenta Sra ANDREA SALVATIERRA, siempre presente la colaboración del personal del municipio y del HUB Tecnológico VAQUEROS.
 
-La organización de esta actividad se dio por la gestion y apoyo del Sr DANIEL MORENO OVALLE desde Septiembre 2023, la señora Ministra de Educación Dra. María Cristina del Valle Fiore Viñuales, el Diputado Naciona Outes, la Diputada Nacional Sra...
+La organización de esta actividad se dio por la gestion y apoyo del Sr DANIEL MORENO OVALLE desde Septiembre 2023, la señora Ministra de Educación Dra. María Cristina del Valle Fiore Viñuales, el Diputado Nacional CPN Pablo Ismael Outes, la Diputada Nacional Sra...
 
 El aporte de contenidos: Profesor Durgan Nallar.
 
