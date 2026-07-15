@@ -4,6 +4,7 @@
 
 # Jóvenes Talentos en Tecnología:
 # Ciencias de Datos y Desarrollo de Videojuegos"
+# "Potrero de la Industria Creativa == PIC"
 ## Temas principales:
   * [Guia para Jammers, lectura obligatoria. Autor Profesor Durgan Nallar](https://saltagamejam.ar/leer/SaltaGameJam_Guia_Jammers.pdf) 
   * INGLES TECNICO
